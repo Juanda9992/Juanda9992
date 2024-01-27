@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan David Gonzalez (Juanda Games</h1>
-<h3 align="center">A passionate student and indie game developer. I am 18 years old, since 2 years ago i started to develop games in Unity Engine learning C#</h3>
+<h3 align="center">A passionate student and indie game developer. I am 20 years old, since 4 years ago i started to develop games in Unity Engine learning C#</h3>
 
 - 🔭 I’m currently working on **Ultimate Custom Night: Reloaded**
 
