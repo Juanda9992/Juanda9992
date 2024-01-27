@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Juan David Gonzalez (Juanda Games</h1>
 <h3 align="center">A passionate student and indie game developer. I am 18 years old, since 2 years ago i started to develop games in Unity Engine learning C#</h3>
 
-- 🔭 I’m currently working on **Unity 2D Gunner Course**
+- 🔭 I’m currently working on **Ultimate Custom Night: Reloaded**
 
 - 🌱 I’m currently learning **C# and Unity Engine**
-
-- 👯 I’m looking to collaborate on [Globant Gaming](https://www.globant.com/es/studio/gaming)
 
 - 🤝 I’m looking for help with **other Unity Developers :)**
 
